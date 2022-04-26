@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: filament-uno.github.io
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/Filament-uno/filament_uno/master/assets/images/logo.svg
+  logoUrl: https://github.com/Filament-uno/filament_uno/raw/master/assets/images/logo_email.png
   name: Filament.uno Statuspage
   introTitle: "Filament.uno status."
   introMessage: Below you can find the current status of the filament.uno website. When we have planned maintenance, this will also be published here.
