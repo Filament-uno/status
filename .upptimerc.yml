@@ -8,6 +8,8 @@ sites:
   - name: Filament.uno ping
     url: filament.uno
     check: tcp-ping
+  - name: Matamo statistics
+    url: site-stats.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
