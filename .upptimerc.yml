@@ -8,7 +8,7 @@ sites:
   - name: Filament.uno ping
     url: filament.uno
     check: tcp-ping
-  - name: Matamo statistics
+  - name: Matomo statistics
     url: site-stats.nl
 
 status-website:
