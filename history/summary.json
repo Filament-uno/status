@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.filament.uno",
     "slug": "filament-uno",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.86%",
-    "time": 1225,
-    "timeDay": 924,
-    "timeWeek": 3785,
+    "uptimeYear": "99.87%",
+    "time": 1215,
+    "timeDay": 655,
+    "timeWeek": 3767,
     "timeMonth": 1540,
-    "timeYear": 1225,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2022-06-10": 93
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 12,
+    "timeDay": 17,
     "timeWeek": 29,
     "timeMonth": 27,
     "timeYear": 26,
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 2126,
-    "timeDay": 2701,
-    "timeWeek": 3406,
-    "timeMonth": 2209,
-    "timeYear": 2126,
+    "time": 2119,
+    "timeDay": 1730,
+    "timeWeek": 3375,
+    "timeMonth": 2199,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2022-06-10": 94
     }
