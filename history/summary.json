@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.88%",
-    "time": 1176,
-    "timeDay": 538,
-    "timeWeek": 716,
-    "timeMonth": 1524,
-    "timeYear": 1176,
+    "time": 1167,
+    "timeDay": 604,
+    "timeWeek": 659,
+    "timeMonth": 1522,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2022-06-10": 93
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 9,
-    "timeWeek": 29,
+    "timeDay": 29,
+    "timeWeek": 24,
     "timeMonth": 28,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "matomo-statistics",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.87%",
-    "time": 2075,
-    "timeDay": 2537,
-    "timeWeek": 1823,
-    "timeMonth": 2217,
-    "timeYear": 2075,
+    "uptimeYear": "99.88%",
+    "time": 2101,
+    "timeDay": 3535,
+    "timeWeek": 2007,
+    "timeMonth": 2292,
+    "timeYear": 2101,
     "dailyMinutesDown": {
       "2022-06-10": 94
     }
