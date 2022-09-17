@@ -14,8 +14,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: filament-uno.github.io
-  baseUrl: /status
+  cname: status.filament.uno
+  #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Filament-uno/site/master/logo_small.svg
   name: Filament.uno Statuspage
   introTitle: "Filament.uno status."
