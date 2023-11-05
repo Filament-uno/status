@@ -6,21 +6,20 @@
     "slug": "filament-uno",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1075,
-    "timeDay": 452,
-    "timeWeek": 576,
-    "timeMonth": 571,
-    "timeYear": 1181,
+    "timeDay": 973,
+    "timeWeek": 612,
+    "timeMonth": 590,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2023-11-03": 13,
       "2023-04-29": 13,
       "2023-04-22": 38,
-      "2022-12-10": 33,
-      "2022-11-05": 52
+      "2022-12-10": 33
     }
   },
   {
@@ -35,7 +34,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 20,
+    "timeDay": 53,
     "timeWeek": 44,
     "timeMonth": 34,
     "timeYear": 34,
@@ -52,16 +51,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2056,
-    "timeDay": 1288,
-    "timeWeek": 1479,
-    "timeMonth": 1422,
-    "timeYear": 2103,
+    "time": 2057,
+    "timeDay": 1855,
+    "timeWeek": 1556,
+    "timeMonth": 1441,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2023-04-22": 36,
       "2022-12-11": 11,
-      "2022-12-10": 10,
-      "2022-11-05": 51
+      "2022-12-10": 10
     }
   }
 ]
