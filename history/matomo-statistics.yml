@@ -1,7 +1,7 @@
 url: site-stats.nl
-status: down
-code: 500
-responseTime: 574
-lastUpdated: 2024-08-01T15:23:11.418Z
+status: up
+code: 200
+responseTime: 4213
+lastUpdated: 2024-08-01T18:00:17.192Z
 startTime: 2022-04-27T15:18:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
