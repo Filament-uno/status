@@ -1,7 +1,7 @@
 url: https://www.filament.uno
-status: up
-code: 200
-responseTime: 852
-lastUpdated: 2025-11-17T23:12:11.812Z
+status: down
+code: 500
+responseTime: 509
+lastUpdated: 2025-11-18T11:32:32.716Z
 startTime: 2022-04-26T09:40:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
